@@ -184,7 +184,7 @@ It represents the value of an octal number
 
 #### **Hex value**
 
-It represents the value of a hex number
+It represents the value of a hex numbers
 
 
 ```
